@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/line-tracking/static/css/main.073c9b0a.css",
+    "main.js": "/line-tracking/static/js/main.99838a7f.js",
+    "static/js/787.080075a3.chunk.js": "/line-tracking/static/js/787.080075a3.chunk.js",
+    "index.html": "/line-tracking/index.html",
+    "main.073c9b0a.css.map": "/line-tracking/static/css/main.073c9b0a.css.map",
+    "main.99838a7f.js.map": "/line-tracking/static/js/main.99838a7f.js.map",
+    "787.080075a3.chunk.js.map": "/line-tracking/static/js/787.080075a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99838a7f.js"
+  ]
+}
